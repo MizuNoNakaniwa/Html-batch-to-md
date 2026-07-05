@@ -1,4 +1,9 @@
-# html2md — HTML 批量转 Markdown：把当前文件夹里的 `.html` / `.htm` 网页文件,一键批量转成 Markdown(`.md`)。不进子文件夹、不碰别处文件,原始 HTML 一个不动。
+**中文** | [English](./README_EN.md)
+
+# html2md — HTML 批量转 Markdown
+
+把当前文件夹里的 `.html` / `.htm` 网页文件,一键批量转成 Markdown(`.md`)。
+只处理本文件夹根目录,不进子文件夹、不碰别处文件,原始 HTML 一个不动。
 
 ## 使用方法
 
