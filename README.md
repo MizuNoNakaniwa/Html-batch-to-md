@@ -7,7 +7,7 @@
 
 ## 使用方法
 
-1. 下载上面俩文件，就这俩： `html2md.py` 和 `run_html2md.bat`,放进同一个文件夹
+1. 下载上面俩文件，就这俩： `html2md.py` 和 `run_html2md.bat`,其他别下，放进同一个文件夹
 2. 把要转换的 HTML 文件也放进这个文件夹
 3. 双击 `run_html2md.bat`,等待运行完成
 4. 享受!转换结果在同目录的 `md_output` 文件夹里
